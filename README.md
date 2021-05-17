@@ -11,3 +11,9 @@ A tabular dataset was given,having around 188k rows where each row is representi
 ### Problem Statement
 
 The goal is to predict the value for the ‘loss’ column,which is a continuous value using various machine learning techniques.
+
+
+[Blog](https://medium.com/nerd-for-tech/a-kaggle-competition-allstate-claims-severity-a32f4635c849)
+
+
+[Web-app](https://allstate-claim-severity-kaggle.herokuapp.com/)
